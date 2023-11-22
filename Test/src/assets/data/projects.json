@@ -1,0 +1,14 @@
+[
+    {"id":1,"name":"Macy's UOP","summary":"Integrated Macy's Application with Unified Paltform","description":"Integrated Macy's Application with Unified Paltform",
+    "projectLink":"","pictures":[""],"tags":["Angular","c#","ASP.Net"]},
+    {"id":2,"name":"Macy's Standard","summary":"Integrated Macy's Application with Unified Paltform","description":"Integrated Macy's Application with Unified Paltform",
+    "projectLink":"","pictures":[""],"tags":["Angular","c#","ASP.Net"]},
+    {"id":3,"name":"EMIZA","summary":"Retail Order Management Paltform","description":"Retail Order Management Paltform",
+    "projectLink":"","pictures":[""],"tags":["Angular","c#"]},
+    {"id":4,"name":"Aerobiotix","summary":"Integrated Macy's Application with Unified Paltform","description":"Integrated Macy's Application with Unified Paltform",
+    "projectLink":"","pictures":[""],"tags":["Angular","c#","ASP.Net"]},
+    {"id":5,"name":"Loma Linda","summary":"Integrated Macy's Application with Unified Paltform","description":"Integrated Macy's Application with Unified Paltform",
+    "projectLink":"","pictures":[""],"tags":["Angular","c#","ASP.Net"]},
+    {"id":6,"name":"Moses Cone","summary":"Integrated Macy's Application with Unified Paltform","description":"Integrated Macy's Application with Unified Paltform",
+    "projectLink":"","pictures":[""],"tags":["ASP.Net",".Net Core"]}
+]
